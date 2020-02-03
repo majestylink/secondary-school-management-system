@@ -235,14 +235,3 @@ def update_student_info():
     else:
         print("Invalid input \n")
         update_student_info()
-
-
-# update_student_info()
-# promote_helper()
-# promote()
-# view_all_students()
-# add_ca()
-# add_exam()
-# result_total('')
-# admit_student()
-# result_database('Amaka')
